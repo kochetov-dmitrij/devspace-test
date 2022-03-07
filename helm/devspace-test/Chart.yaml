@@ -1,0 +1,7 @@
+apiVersion: v2
+name: devspace-test
+description: A Helm chart for development databases
+
+type: application
+version: 1.0.0
+appVersion: 1.0.0
